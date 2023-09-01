@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Weapon FOV"</Description>
+      <LastState Value="160" Activated="1" RealAddress="7FF6BD9BD448"/>
+      <VariableType>Float</VariableType>
+      <Address>Starfield.exe+79FD448</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
