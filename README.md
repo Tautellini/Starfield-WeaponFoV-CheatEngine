@@ -11,7 +11,9 @@ Also some people might want to have a higher Viewmodel value in general without 
 
 ---
 
-Current working Game Build: Steam 12051365
+Direct Download Links:
+
+[STEAM BUILD 12051365](https://github.com/Tautellini/Starfield-WeaponFoV-CheatEngine/archive/refs/tags/0.1.zip)
 
 ---
 
