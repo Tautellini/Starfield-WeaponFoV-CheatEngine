@@ -5,7 +5,7 @@
 Please consider using 
 
 [SFSE Plugin](https://www.nexusmods.com/starfield/mods/1331)
-or [Flawless Widescreen](flawlesswidescreen.org)
+or [Flawless Widescreen](https://flawlesswidescreen.org)
 
 ---
 
