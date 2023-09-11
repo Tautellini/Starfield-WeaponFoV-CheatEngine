@@ -1,5 +1,14 @@
 # Starfield-WeaponFoV-CheatEngine
 
+## [OUTDATED]
+
+Please consider using 
+
+[SFSE Plugin](https://www.nexusmods.com/starfield/mods/1331)
+or [Flawless Widescreen](flawlesswidescreen.org)
+
+---
+
 **This is for people who want a different World and Viewmodel FoV.**
 
 At the moment Starfield generates its Viewmodel FoV based on the setted up World FoV as soon as you talk to an NPC and start a dialog.
